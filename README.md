@@ -25,6 +25,5 @@ A ServiceNow dashboard app for monitoring Build Agent usage — conversation tra
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/francescosaveriodimaggio/) · Francesco Di Maggio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BuildAgent101ITA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=%23buildagent101ita&origin=HASH_TAG_FROM_FEED)
 [![TikTok](https://img.shields.io/badge/TikTok-BuildAgent101ITA-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@buildagent101ita)
