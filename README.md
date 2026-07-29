@@ -23,11 +23,6 @@ I design and present AI-driven solutions for enterprise clients across Italy and
 ### [Build Agent Analytics](https://github.com/FrancescoDiMaggio/Build-Agent-Analytics)
 A ServiceNow dashboard app for monitoring Build Agent usage — conversation tracking, token/NAU consumption, per-user profiling, and agent performance metrics. Built with React, TypeScript, and the Fluent SDK, using the Aggregate API for KPI calculation and ROI/partner-hour savings estimates across 24 ServiceNow metadata types.
 
-## 🎤 Speaking & Events
-
-<!-- list events here, e.g.: -->
-<!-- - **Event Name** — Talk title, City, Year -->
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/francescosaveriodimaggio/) · Francesco Di Maggio
