@@ -18,10 +18,17 @@ I design and present AI-driven solutions for enterprise clients across Italy and
 
 `ServiceNow Platform` `AI Agent Studio` `Generative AI / LLMs` `RAG` `Prompt Engineering` `React` `TypeScript` `Fluent SDK` `Node.js`
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### [Build Agent Analytics](https://github.com/FrancescoDiMaggio/Build-Agent-Analytics)
 A ServiceNow dashboard app for monitoring Build Agent usage — conversation tracking, token/NAU consumption, per-user profiling, and agent performance metrics. Built with React, TypeScript, and the Fluent SDK, using the Aggregate API for KPI calculation and ROI/partner-hour savings estimates across 24 ServiceNow metadata types.
+
+### [Workflow Analyzer](https://github.com/FrancescoDiMaggio/Workflow-Analyzer) · [🔗 Live Demo](https://francescodimaggio.github.io/Workflow-Analyzer/)
+A tool to analyze legacy ServiceNow Workflows and support the design of new Flows with Build Agent.
+
+<p align="center">
+  <img src="https://github.com/FrancescoDiMaggio/Workflow-Analyzer/blob/githubpages/assets/landing-page.png?raw=true" width="600" alt="Workflow Analyzer landing page">
+</p>
 
 ## 📫 Contact
 
