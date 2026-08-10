@@ -30,6 +30,13 @@ A tool to analyze legacy ServiceNow Workflows and support the design of new Flow
   <img src="https://github.com/FrancescoDiMaggio/Workflow-Analyzer/blob/githubpages/assets/landing-page.png?raw=true" width="600" alt="Workflow Analyzer landing page">
 </p>
 
+### [AIUX Exploration](https://github.com/FrancescoDiMaggio/AIUX-Exploration)
+Explorations on ServiceNow's [Otto](https://www.servicenow.com/platform/otto.html) AI-UX, prototyping conversational and agentic interface patterns.
+
+<p align="center">
+  <img src="https://github.com/FrancescoDiMaggio/AIUX-Exploration/blob/main/assets/otto-coin-flip-demo.gif?raw=true" width="600" alt="Otto coin flip demo">
+</p>
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BuildAgent101ITA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=%23buildagent101ita&origin=HASH_TAG_FROM_FEED)
